@@ -9,3 +9,8 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     width: 50px;
 }
+
+h1{
+    text-decoration: underline;
+    font-size: 36px;
+}
